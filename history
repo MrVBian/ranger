@@ -1,0 +1,33 @@
+cd gr
+open_with 2
+find do
+find document
+find gi
+rename nnn
+rename 1
+find conf
+find scope
+delete
+find .conf
+search config
+find config
+open_with e
+find  sn
+find sn
+find vi
+find nv
+fzf
+find ra
+open_with 
+scout -ftsea ra
+scout -ftsea ran
+open_with 1
+scout -ftsea nv
+shell cd %s
+shell nv %s
+shell cd ~ %s
+shell pwd %s
+shell vim %s
+shell  %s
+shell vim
+
