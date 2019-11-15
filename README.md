@@ -121,16 +121,22 @@
 
 
 # Custom Jumping around
-| 快捷键   | 作用 | Cool                 |
-| :------- | :--- | :------------------- |
-| `g/`     |      | cd /                 |
-| `gD`     |      | cd ~/桌面            |
-| `gs`     |      | cd ~/software        |
-| `gd`     |      | cd ~/document        |
-| `gi`     |      | cd ~/document/github |
-| `ga`     |      | cd ~/下载            |
-
-
+| 快捷键 | 作用 | Cool                  |
+| :----- | :--- | :-------------------- |
+| `g/`   |      | cd /                  |
+| `gh`   |      | cd ~                  |
+| `gs`   |      | cd ~/software         |
+| `gd`   |      | cd ~/document         |
+| `gi`   |      | cd ~/document/github  |
+| `gD`   |      | cd ~/桌面             |
+| `gS`   |      | cd ~/文档             |
+| `gI`   |      | cd ~/图片             |
+| `gA`   |      | cd ~/下载             |
+| `gV`   |      | cd ~/视频             |
+| `gC`   |      | cd ~/.config          |
+| `gN`   |      | cd ~/.config/nvim     |
+| `gP`   |      | cd ~/.config/nvim/tmp |
+| `gR`   |      | cd ~/.config/ranger   |
 
 # External Programs
 | 快捷键   | 作用             | Cool                                                         |
