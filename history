@@ -1,13 +1,6 @@
-cd gr
-open_with 2
-find do
-find document
-find gi
-rename nnn
 rename 1
 find conf
 find scope
-delete
 find .conf
 search config
 find config
@@ -18,10 +11,7 @@ find vi
 find nv
 fzf
 find ra
-open_with 
 scout -ftsea ra
-scout -ftsea ran
-open_with 1
 scout -ftsea nv
 shell cd %s
 shell nv %s
@@ -30,4 +20,31 @@ shell pwd %s
 shell vim %s
 shell  %s
 shell vim
+bulkrename 
+search 
+scout -ftsea an
+scout -ftsea inc
+scout -ftsea pyt
+scout -ftsea pyco
+open_with 
+rename init.sh
+shell 
+shell -p 
+she
+scout -ftsea G
+rename 
+scout -ftsea sr
+rename python数据分析与机器学习实战f
+scout -ftsea ca
+scout -ftsea YOL
+scout -ftsea ala
+scout -ftsea 
+scout -ftsea R
+open_with 1
+delete
+shell opendir
+ren
+mkcd imgs
 
+shell mkdir imgs
+scout -ftsea ran
