@@ -1,32 +1,5 @@
-rename 1
-find conf
-find scope
-find .conf
-search config
-find config
-open_with e
-find  sn
-find sn
-find vi
-find nv
-fzf
-find ra
-scout -ftsea ra
-scout -ftsea nv
-shell cd %s
-shell nv %s
-shell cd ~ %s
-shell pwd %s
-shell vim %s
-shell  %s
-shell vim
-bulkrename 
-search 
-scout -ftsea an
-scout -ftsea inc
 scout -ftsea pyt
 scout -ftsea pyco
-open_with 
 rename init.sh
 shell 
 shell -p 
@@ -40,11 +13,38 @@ scout -ftsea YOL
 scout -ftsea ala
 scout -ftsea 
 scout -ftsea R
-open_with 1
-delete
 shell opendir
 ren
 mkcd imgs
-
 shell mkdir imgs
 scout -ftsea ran
+rename r14.jpg
+rename n12.jpg
+rename n13
+rename n13.jpg
+rename g8.jpg
+rename g9.jpg
+rename r15.jpg
+rename r16.jpg
+rename n14.jpg
+rename n15.jpg
+rename n16.jpg
+rename n17.jpg
+rename g10.jpg
+rename 1.jpg
+rename 2.jpg
+rename 3.jpg
+rename 4.jpg
+rename 5.jpg
+rename 6.jpg
+delete
+open_wit
+open_with 
+rename 6.png
+
+search pcl
+open_with 0
+1
+open_with 2
+scout -ftsea b
+open_with 1
